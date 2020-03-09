@@ -13,5 +13,5 @@ My triangular life:
 >
 
 ### Oops While you are here, add CSS to console logs
->> [CSS](console.log("%cCLICKED!", "font-family:arial;color:green;font-weight:bold;font-size:3rem")
+>> [CSS](console.log("%cCLICKED!", "font-family:arial;color:green;font-weight:bold;font-size:3rem"))
 
