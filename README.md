@@ -13,5 +13,5 @@ My triangular life:
 >
 
 ### Oops While you are here, add CSS to console logs
->> [CSS](https://jsfiddle.net/yvux8h6b/)
+>> [CSS](https://jsfiddle.net/rf7uj4yh/)
 
