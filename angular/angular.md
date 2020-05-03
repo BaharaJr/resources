@@ -12,3 +12,5 @@
 [Pagination in Angular](https://www.c-sharpcorner.com/article/searching-and-pagination-using-angular-7/)
 >
 [Angular Table to Excel](https://medium.com/@patade888/exporting-data-to-excel-in-angular-8-5a7cf5d0d25d)
+>
+[Create reusable Tables](https://medium.com/@ct7/building-a-reusable-table-layout-for-your-angular-2-project-adf6bba3b498)
