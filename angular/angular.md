@@ -17,3 +17,5 @@
 [Create reusable Tables](https://medium.com/@ct7/building-a-reusable-table-layout-for-your-angular-2-project-adf6bba3b498)
 >
 [Angular Material,Tables,Pagination & Sorting](https://www.positronx.io/angular-material-8-data-table-pagination-sorting-tutorial/)
+>
+[Angular Material,Tables,Pagination & Sorting](https://www.youtube.com/watch?v=iGGaUQFMA08)
