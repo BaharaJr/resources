@@ -13,6 +13,7 @@
 >
 [Angular Table to Excel](https://medium.com/@patade888/exporting-data-to-excel-in-angular-8-5a7cf5d0d25d)
 >
+
 [Create reusable Tables](https://medium.com/@ct7/building-a-reusable-table-layout-for-your-angular-2-project-adf6bba3b498)
 >
 [Angular Material,Tables,Pagination & Sorting](https://www.positronx.io/angular-material-8-data-table-pagination-sorting-tutorial/)
