@@ -1,3 +1,4 @@
+# Note: *Angular Material Pagination doesnot work with *ngIf, use [hidde]
 [Angular Starters](https://compodoc.app/)
 >
 [Angular Ultimate Guide](https://devdocs.io/angular)
