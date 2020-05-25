@@ -13,4 +13,7 @@
 >
 [Angular Table to Excel](https://medium.com/@patade888/exporting-data-to-excel-in-angular-8-5a7cf5d0d25d)
 >
-[Angular Material Data Table - Paging, Sorting and Filter Operation](https://www.youtube.com/watch?v=7wilnsiotqM&t=12s)
+
+[Create reusable Tables](https://medium.com/@ct7/building-a-reusable-table-layout-for-your-angular-2-project-adf6bba3b498)
+>
+[Angular Material,Tables,Pagination & Sorting](https://www.positronx.io/angular-material-8-data-table-pagination-sorting-tutorial/)
