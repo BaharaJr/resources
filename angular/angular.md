@@ -1,3 +1,4 @@
+## Note: *Angular Material Pagination doesnot work with *ngIf, use [hidde]
 [Angular Starters](https://compodoc.app/)
 >
 [Angular Ultimate Guide](https://devdocs.io/angular)
@@ -16,8 +17,10 @@
 
 [Create reusable Tables](https://medium.com/@ct7/building-a-reusable-table-layout-for-your-angular-2-project-adf6bba3b498)
 >
-[Angular Material,Tables,Pagination & Sorting](https://www.positronx.io/angular-material-8-data-table-pagination-sorting-tutorial/)
->
-[Angular Material,Tables,Pagination & Sorting](https://www.youtube.com/watch?v=iGGaUQFMA08)
+[Angular Material,Tables,Pagination & Sorting Part1](https://www.positronx.io/angular-material-8-data-table-pagination-sorting-tutorial/)
 >
 [Angular Routing/stackblizz](https://stackblitz.com/github/janders/angular-tab-router-with-children?file=src%2Fapp%2Fphoto%2Fphoto.module.ts)
+>
+[Angular Material,Tables,Pagination & Sorting Part2](https://www.youtube.com/watch?v=iGGaUQFMA08)
+>
+[Complete Guide to Angular Routing](https://nirajsonawane.github.io/2018/10/27/Angular-Material-Tabs-with-Router/)
