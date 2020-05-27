@@ -19,3 +19,5 @@
 [Angular Material,Tables,Pagination & Sorting](https://www.positronx.io/angular-material-8-data-table-pagination-sorting-tutorial/)
 >
 [Angular Material,Tables,Pagination & Sorting](https://www.youtube.com/watch?v=iGGaUQFMA08)
+>
+[Angular Routing/stackblizz](https://stackblitz.com/github/janders/angular-tab-router-with-children?file=src%2Fapp%2Fphoto%2Fphoto.module.ts)
