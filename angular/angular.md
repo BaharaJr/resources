@@ -20,3 +20,5 @@
 [Angular Material,Tables,Pagination & Sorting Part1](https://www.positronx.io/angular-material-8-data-table-pagination-sorting-tutorial/)
 >
 [Angular Material,Tables,Pagination & Sorting Part2](https://www.youtube.com/watch?v=iGGaUQFMA08)
+>
+[Complete Guide to Angular Routing](https://nirajsonawane.github.io/2018/10/27/Angular-Material-Tabs-with-Router/)
