@@ -14,6 +14,7 @@
 >
 [Angular Table to Excel](https://medium.com/@patade888/exporting-data-to-excel-in-angular-8-5a7cf5d0d25d)
 >
+[Deferred Loading Technique in Angular](https://dev.to/igorfilippov3/deferred-loading-technique-in-angular-3o90)
 
 [Create reusable Tables](https://medium.com/@ct7/building-a-reusable-table-layout-for-your-angular-2-project-adf6bba3b498)
 >
