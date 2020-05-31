@@ -1,9 +1,3 @@
-### OK 
-
-My triangular life:
-
-
-
 ### Stay with me
 
 * [GitHub](https://github.com/BaharaJr) - I sometimes write code that works
