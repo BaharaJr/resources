@@ -12,3 +12,5 @@
 [Pagination in Angular](https://www.c-sharpcorner.com/article/searching-and-pagination-using-angular-7/)
 >
 [Angular Table to Excel](https://medium.com/@patade888/exporting-data-to-excel-in-angular-8-5a7cf5d0d25d)
+>
+[Deferred Loading Technique in Angular](https://dev.to/igorfilippov3/deferred-loading-technique-in-angular-3o90)
