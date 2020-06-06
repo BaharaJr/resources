@@ -1,4 +1,4 @@
-### Stay with me
+### Get in touch with me
 
 * [GitHub](https://github.com/BaharaJr) - I sometimes write code that works
 * [Twitter](https://twitter.com/BaharaJr) - I be tweeting about my long distance girlfriend who lives in the future
