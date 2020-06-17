@@ -5,3 +5,5 @@
 [JavaScript Frameworks Comparisons](https://dev.to/mkdev/javascript-framework-comparison-vue-react-and-angular-4d)
 >
 [Angular Material Pagination](https://medium.com/angular-in-depth/angular-material-pagination-datasource-73080d3457fe)
+>
+[Angular with ESlint](https://dev.to/dreiv/using-eslint-and-prettier-with-vscode-in-an-angular-project-42ib)
