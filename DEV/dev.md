@@ -7,3 +7,5 @@
 [Angular Material Pagination](https://medium.com/angular-in-depth/angular-material-pagination-datasource-73080d3457fe)
 >
 [Angular with ESlint](https://dev.to/dreiv/using-eslint-and-prettier-with-vscode-in-an-angular-project-42ib)
+>
+[It's a waste of time](https://dev.to/dmerejkowsky/it-s-a-waste-of-time-513p)

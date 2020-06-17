@@ -1,10 +1,4 @@
-### OK 
-
-My triangular life:
-
-
-
-### Stay with me
+### Get in touch with me
 
 * [GitHub](https://github.com/BaharaJr) - I sometimes write code that works
 * [Twitter](https://twitter.com/BaharaJr) - I be tweeting about my long distance girlfriend who lives in the future
@@ -12,8 +6,6 @@ My triangular life:
 
 >
 
-### Oops While you are here, add CSS to console logs
->> [CSS](https://jsfiddle.net/rf7uj4yh/)
 
 [![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/0)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/0)[![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/1)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/1)[![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/2)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/2)[![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/3)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/3)[![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/4)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/4)[![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/5)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/5)[![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/6)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/6)[![](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/images/7)](https://sourcerer.io/fame/BaharaJr/BaharaJr/checky-my-recipe/links/7)
 
