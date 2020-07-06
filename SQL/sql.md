@@ -4,6 +4,7 @@
 [Advanced SQL Part2](https://egghead.io/courses/advanced-sql-for-professional-developers?utm_content=advanced-sql-for-professional-developers&amp;utm_medium=email&amp;utm_source=drip&amp;utm_term=postgres)
 
 * FILTER DUPLICATES IN A TABLE
+>
 `
 SELECT "recordId", "trainingsessionId", COUNT(*)
 FROM sessionfacilitator
