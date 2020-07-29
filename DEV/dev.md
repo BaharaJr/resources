@@ -11,3 +11,5 @@
 [It's a waste of time](https://dev.to/dmerejkowsky/it-s-a-waste-of-time-513p)
 >
 [Why I moved to TS](https://dev.to/vbrdnk/why-i-moved-to-typescript-and-have-no-regrets-3174)
+>
+[You many NOT need switch](https://www.valentinog.com/blog/switch/)
