@@ -13,3 +13,5 @@
 [Why I moved to TS](https://dev.to/vbrdnk/why-i-moved-to-typescript-and-have-no-regrets-3174)
 >
 [You many NOT need switch](https://www.valentinog.com/blog/switch/)
+>
+[ES2017 async/await](https://dev.to/somedood/best-practices-for-es2017-asynchronous-functions-async-await-39ji)
