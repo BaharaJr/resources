@@ -3,3 +3,6 @@
 [Dockerize an Angular App](https://mherman.org/blog/dockerizing-an-angular-app/)
 >
 [Developing Angular Applications in Docker](https://blogs.msmvps.com/theproblemsolver/2017/04/17/developing-angular-applications-using-docker/)
+
+//Failing Docker compose ---> 
+`eval "$(docker-machine env default)"`  
