@@ -2,5 +2,5 @@
 >
 [The Ultimate vimrc file setup](https://github.com/avelino/vim-bootstrap)
 >
-# Change default editor to vim
+## Change default editor
 `sudo update-alternatives --config editor`
