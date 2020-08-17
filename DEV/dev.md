@@ -14,4 +14,6 @@
 >
 [You many NOT need switch](https://www.valentinog.com/blog/switch/)
 >
+[How i became a Senior](https://t.co/wt0NuwTf4U?amp=1)
+>
 [ES2017 async/await](https://dev.to/somedood/best-practices-for-es2017-asynchronous-functions-async-await-39ji)
