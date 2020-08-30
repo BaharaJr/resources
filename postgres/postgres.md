@@ -7,4 +7,5 @@ ALTER SEQUENCE product_id_seq RESTART WITH 1453;
 
 ## Backup DB
 `pg_dump -h localhost -U "username" "dbname" -Fc > hris.bak`
+>
 [FillFactor](https://www.cybertec-postgresql.com/en/what-is-fillfactor-and-how-does-it-affect-postgresql-performance/)
