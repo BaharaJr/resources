@@ -1,0 +1,12 @@
+## Tackle no fast-forward issues
+
+`git fetch origin feature/my_feature_branch:tmp`
+
+# rebasing on local 'tmp' branch
+`git rebase tmp`
+
+# pushing local changes to the remote
+`git push origin HEAD:feature/my_feature_branch``
+
+# removing temporary created 'tmp' branch
+`git branch -D tmp`
