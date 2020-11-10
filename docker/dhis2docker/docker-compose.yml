@@ -1,0 +1,18 @@
+version: '3'
+services:
+  db:
+   volumes:
+    - ./db:/docker-entrypoint-initdb.d/     
+   image: mdillon/postgis:10
+   command: postgres -c max_locks_per_transaction=100
+   restart: always
+   environment:
+        POSTGRES_USER: dhis
+        POSTGRES_DB: dhis2
+        POSTGRES_PASSWORD: dhis
+  webapp:
+   image: dhis2/core:2.32.5
+   volumes:
+     - ./dhis.conf:/DHIS2_home/dhis.conf
+   ports:
+     - "8085:8080"
