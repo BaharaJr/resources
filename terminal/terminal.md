@@ -3,3 +3,6 @@
 [ZSH Autocomplet](https://github.com/marlonrichert/zsh-autocomplete)
 >
 [Install WhatsApp PWA](https://askubuntu.com/questions/684415/install-whatsapp-webapp-on-ubuntu)
+>
+### Zip files, 
+`zip hris *.sql` > This would zip all files with .sql extension to a zip folder hris
