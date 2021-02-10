@@ -13,3 +13,6 @@ ALTER SEQUENCE product_id_seq RESTART WITH 1453;
 >
 ### Backup DB in PG
 `pg_dump -U user -f backup.sql db_name`
+
+### Backup DB in Docker
+`docker exec -t containername pg_dump --no-owner -U postgres dbname > backup.sql`
