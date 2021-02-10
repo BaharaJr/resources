@@ -6,3 +6,6 @@
 >
 ### Zip files, 
 `zip hris *.sql` > This would zip all files with .sql extension to a zip folder hris
+
+### Search history in terminal
+`history | grep -i searchterm | less`
