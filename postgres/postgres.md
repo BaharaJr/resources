@@ -28,3 +28,9 @@ ALTER SEQUENCE product_id_seq RESTART WITH 1453;
   JOIN information_schema.constraint_column_usage AS ccu
     ON ccu.constraint_name = tc.constraint_name
   WHERE constraint_type = 'FOREIGN KEY' AND ccu.table_name='YourTableNameHere';`
+  
+  ### Change column to lower case and search
+  
+  `SELECT * 
+  FROM RECORDVALUE
+ WHERE LOWER(VALUE)=LOWER('SEARCH TERM')`
